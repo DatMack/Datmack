@@ -47,9 +47,4 @@ Tools:      Git · GitHub · VS Code · Postman
 
 ---
 
-✅ To publish:
-	•	Create a new public repo named DatMack (must exactly match your GitHub username).
-	•	Paste this into a README.md file in the root.
-	•	GitHub will automatically use it as your profile README.
-
 > 💬 “The best tools are the ones that solve problems nobody else wanted to deal with.”
