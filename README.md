@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🔧 Hands-on production leader pivoting into software development  
+- 🔧 Hands-on production Supervisor pivoting into software development  
 - 💡 Passionate about building useful tools that solve real-world problems  
 - 🛠️ Currently building: [Attendance Calculator](https://github.com/DatMack/attendance_calculator)  
 - 🎯 Focused on frontend + full-stack development (React, TypeScript, Node.js)
