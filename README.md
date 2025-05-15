@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm John (aka DatMack)</h1>
 
 <p align="center">
-  💻 Self-taught developer | 👷‍♂️ Manufacturing Team Lead | 🎯 Discipline + Innovation
+  💻 Self-taught developer | 👷‍♂️ Manufacturing Supervisor | 🎯 Discipline + Innovation
 </p>
 
 ---
