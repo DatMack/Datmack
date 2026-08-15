@@ -10,7 +10,7 @@
 
 - 🔧 Hands-on production Supervisor pivoting into software development  
 - 💡 Passionate about building useful tools that solve real-world problems  
-- 🛠️ Currently building: [Attendance Calculator](https://github.com/DatMack/attendance_calculator)  
+- 🛠️ Just Finished: [Operations Tracker](https://datmack.github.io/operations-hours-tracker/)  
 - 🎯 Focused on frontend + full-stack development (React, TypeScript, Node.js)
 
 ---
